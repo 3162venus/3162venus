@@ -19,6 +19,10 @@ I build software, break things, and occasionally make them useful.
 - Building everything and anything
 - Prepping something big ... just wait
 
+
+FAHHH
+
+
 ## Stack I actually use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
