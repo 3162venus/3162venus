@@ -7,7 +7,7 @@ I build software, break things, and occasionally make them useful.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### What I do
+## What I do
 
 🧑‍💻 Software Engineering
 🔐 Security
